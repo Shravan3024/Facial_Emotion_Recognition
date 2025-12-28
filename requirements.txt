@@ -1,0 +1,7 @@
+tensorflow==2.15.0
+numpy==1.24.4
+opencv-python==4.7.0.72
+matplotlib
+imutils
+scikit-learn
+pillow

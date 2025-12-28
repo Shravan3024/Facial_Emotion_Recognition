@@ -1,0 +1,16 @@
+# Virtual environments (all locations)
+.venv/
+venv/
+fer_env/
+(fer_env)/
+src/(fer_env)/
+src/fer_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large / unnecessary files
+*.h5
+dataset/
+logs/
