@@ -1,7 +1,11 @@
 tensorflow==2.15.0
 numpy==1.24.4
-opencv-python==4.7.0.72
+opencv-python-headless==4.8.1.78
 matplotlib
 imutils
 scikit-learn
 pillow
+streamlit
+streamlit-webrtc
+av
+
